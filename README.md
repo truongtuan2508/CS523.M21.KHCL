@@ -19,6 +19,6 @@ Chủ đề trình bày: Treap
 |:-:|:------------------|:---------:|:--------:|:-----------:|
 | 1 | Trương Văn Tuấn | 19522486 | 19522486@gm.uit.edu.vn | [truongtuan2508](https://github.com/truongtuan2508) |
 | 2 | Nguyễn Thành Trung | 19522432 | 19522432@gm.uit.edu.vn | [chocopie0301](https://github.com/chocopie0301) |
-| 3 | Nguyễn Văn Hoàng | 20521346 | 20521346@gm.uit.edu.vn |  |
+| 3 | Nguyễn Văn Hoàng | 20521346 | 20521346@gm.uit.edu.vn | [hoangcurly](https://github.com/hoangcurly) |
 
 
